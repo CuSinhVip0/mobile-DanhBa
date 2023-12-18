@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/sua_menu"
+        android:title="Update info"
+       />
+    <item android:id="@+id/sua2_menu"
+        android:title="Update social networks"
+        />
+    <item android:id="@+id/hinh_menu"
+        android:title="Change image"
+        />
+
+    <item android:id="@+id/xoa_menu"
+        android:title="Delete info"
+        />
+</menu>
